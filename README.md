@@ -5,6 +5,9 @@ module05 repo
 #creation of a snake game
 
 #ideas of what the snake will eat:
+apples
+bananas
+pears
 
 
 #license included: Apache License 2.0
