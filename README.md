@@ -9,8 +9,10 @@ apples
 bananas
 pears
 
-#snek game subheading
+#snek game subheading 1
 the snek will have 3 headsss!!
+#snek game subheading 2
+and 6 tails
 
 
 #license included: Apache License 2.0
